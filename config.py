@@ -55,10 +55,10 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-SOURCE = getenv("SOURCE", "https://github.com/coderx0805/VIPDEVA")
+SOURCE = getenv("SOURCE", "https://github.com/hide-sudo/VIPDEVA")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/coderx0805/VIPDEVA",
+    "https://github.com/hide-sudo/VIPDEVA",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
