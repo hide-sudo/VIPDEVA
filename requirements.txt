@@ -62,4 +62,5 @@ yt-dlp
 youtube-search
 youtube-search-python
 flask
-lyricsgenius
+lyricsgenius==2.0.7
+
